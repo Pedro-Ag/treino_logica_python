@@ -1,0 +1,1 @@
+## Esse repositório é para aprendizado de logica de programação com python. 
